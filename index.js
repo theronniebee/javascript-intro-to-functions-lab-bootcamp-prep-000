@@ -11,7 +11,7 @@ function whisper(string) {
   return string.toLowerCase()
 >>>>>>> fe5d9a6216df4fdc4b361a96f0cc1b8177816f21
 }
-function Shout(string){
+function logShout(string){
   console.log(shout(string));
 }
 function logWhisper(string){
