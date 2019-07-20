@@ -12,7 +12,7 @@ function whisper(string) {
 >>>>>>> fe5d9a6216df4fdc4b361a96f0cc1b8177816f21
 }
 function logShout(string){
-  console.logshout(string));
+  console.log(shout(string));
 }
 function logWhisper(string){
 <<<<<<< HEAD
